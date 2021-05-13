@@ -22,6 +22,10 @@ https://www.iconfinder.com/bitfreak86
 <div>
   <b>Enemy Icon:</b>
   <a href="https://commons.wikimedia.org/wiki/File:Space_invaders_character_3.jpeg">アロたん</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+</div>
+<div>
+  <b> Laser Icon:</b>
+  <a href="https://flyclipart.com/rocket-laser-beam-pixel-art-maker-red-laser-png-229033">Rocket Laser Beam Pixel Art Maker - Red Laser PNG</a>
   </div>
 <div>
   <b>Cover Image:</b>
