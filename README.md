@@ -1,10 +1,10 @@
 # Space Invaders
-Arcade Space Invaders game recriated 100% Python.
+Arcade Space Invaders game recreated in 100% Python.
 
 ![Basketball_player_(1974)_turned_into_Space_Invaders_crab_(1978)_X8](https://user-images.githubusercontent.com/76231670/118138582-6acfcb00-b3fe-11eb-8731-e486cbf90dd1.png)
 
 
-<p>Game made using PyCharm Communit and "pygame".</p>
+<p>Game made using PyCharm Community Edition and "pygame".</p>
 <p>The GUI only works inside the IDE.</p>
 
 <h3>Image Attibutions:</h3>
