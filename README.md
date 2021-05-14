@@ -6,6 +6,7 @@ Arcade Space Invaders game recreated in 100% Python.
 
 <p>Game made using PyCharm Community Edition and "pygame".</p>
 <p>The GUI only works inside the IDE.</p>
+<p>It is only a simple Python exercise :) </p>
 
 <h3>Image Attibutions:</h3>
 <div>
